@@ -10,7 +10,7 @@ The following challenge involved creating a tech blog. The application requires 
 Users will be unable to edit or delete blogs created by others. All blogs feature a title, created date, author, and description.
 
 
-Live Application: https://www.loom.com/share/25863544fcc34613924edd89a5c517fd
+Live Application: 
 
 ![README Preview](./images/1.png)
 
